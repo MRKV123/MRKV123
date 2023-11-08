@@ -4,6 +4,7 @@
 <p>Futuro Data Expert em Data Science e Machine Learning pela DNC Group, visando a migrar para a carreira de Analista de Dados.</p>
   Bacharelado pela Universidade Federal da Paraíba - UFPB.<br>
   
+<p>🌟 Analista de Dados 🌟 | 📊 Python | 📈 SQL | 📊 Power BI | 🧪 Scikit-Learn | 📋 CRISP-DM | 🐼 Pandas | 🚀 VSCode</p>
 
 <h3 align="left">Me contate:</h3>
 <p align="left">
