@@ -2,7 +2,7 @@
   <h1 align="justify">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/danillo-melo-1aa35b220/">Danillo Melo</a> 😁</h1>
 <p>Pós-Graduando em Ciência de Dados e Analytics pela PUC-RIO.</p>
 <p>Futuro Data Expert em Data Science e Machine Learning pela DNC Group, visando a migrar para a carreira de Analista de Dados.</p>
-  Bacharelado pela Universidade Federal da Paraíba - UFPB.<br>
+  Bacharelado pela Centro Universitário de João Pessoa - UNIPÊ.<br>
 <p></p>
 <p>🌟 Analista de Dados 🌟 | 📊 Python | 📈 SQL | 📊 Power BI | 🧪 Scikit-Learn | 📋 CRISP-DM | 🐼 Pandas | 🚀 VSCode</p>
 
