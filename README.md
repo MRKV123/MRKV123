@@ -24,13 +24,6 @@
 </div>
 </br>
 
-<div align="center" valign="top"><br>
-  <a href="https://github.com/MRKV123">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MRKV123&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRKV123&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 <div>
   <h2 align="left"> Sobre Mim</h2>
 </div>
