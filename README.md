@@ -1,7 +1,7 @@
 <div>
   <h1 align="justify">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/danillo-melo-1aa35b220/">Danillo Melo</a> 😁</h1>
 <p>Pós-Graduando em Ciência de Dados e Analytics pela PUC-RIO.</p>
-<p>Data Expert em Data Science e Machine Learning pela DNC Group, visando a migrar para a carreira de Analista de Dados.</p>
+<p>Data Expert em Data Science e Machine Learning pela DNC Group</p>
   Bacharelado pela Centro Universitário de João Pessoa - UNIPÊ.<br>
 <p></p>
 <p></p>
